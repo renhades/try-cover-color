@@ -1,7 +1,7 @@
 Features
 ========
 
-# Click button to change backgound color.
+Click button to change backgound color.
 
 Dependency
 ==========
