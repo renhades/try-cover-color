@@ -1,0 +1,33 @@
+{
+  "name": "try-cover-color",
+  "version": "0.0.0",
+  "authors": [
+    "ryanliu <moomoo9513@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/*",
+    "node_modules",
+    "bower_components",
+    "**/.*",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.0",
+    "angular": "~1.4.0",
+    "angular-translate": "~2.9.0"
+  },
+  "description": "exercises",
+  "directory" : "vendor",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "index.html",
+  "private": true,
+  "resolutions": {
+    "angular": "~1.4.0"
+  }
+}

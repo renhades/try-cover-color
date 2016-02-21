@@ -1,0 +1,28 @@
+body {
+
+}
+
+.module-box {
+  margin: 10px auto;
+  padding: 10px auto;
+}
+
+.section-white {
+  height: 100vh;
+}
+
+.section-red {
+  background-color: red;
+  height: 100vh;
+}
+
+.section-black {
+  background-color: black;
+  height: 100vh;
+}
+
+.section-green {
+  background-color: green;
+  height: 100vh;
+}
+
